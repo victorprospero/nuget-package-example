@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>VictorProspero.MoneyExtensions</PackageId>
     <Version>1.0.0</Version>
     <icon>https://raw.githubusercontent.com/victorprospero/nuget-package-example/main/Media/FOTO.JPG</icon>
     <License>MIT</License>

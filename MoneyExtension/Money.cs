@@ -1,4 +1,4 @@
-﻿namespace MoneyExtension
+﻿namespace VictorProspero.MoneyExtensions
 {
     public static class Money
     {

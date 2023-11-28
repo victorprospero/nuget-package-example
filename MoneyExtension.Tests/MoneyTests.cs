@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace MoneyExtension.Tests
+namespace VictorProspero.MoneyExtensions.Tests
 {
     public class MoneyTests
     {

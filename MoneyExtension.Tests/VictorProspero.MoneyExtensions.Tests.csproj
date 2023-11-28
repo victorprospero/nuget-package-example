@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoneyExtension\MoneyExtension.csproj" />
+    <ProjectReference Include="..\MoneyExtension\VictorProspero.MoneyExtensions.csproj" />
   </ItemGroup>
 
 </Project>
