@@ -3,7 +3,7 @@
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>MoneyExtensions</PackageId>
     <Version>1.0.0</Version>
-    <icon>https://avatars.githubusercontent.com/u/40169797?v=4</icon>
+    <icon>https://raw.githubusercontent.com/victorprospero/nuget-package-example/main/Media/FOTO.JPG</icon>
     <License>MIT</License>
     <Authors>Victor Prospero</Authors>
     <Company>victorprospero</Company>
@@ -12,8 +12,6 @@
     <RepositoryUrl>https://github.com/victorprospero/nuget-package-example</RepositoryUrl>
     <PackageProjectUrl>https://github.com/victorprospero/nuget-package-example</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageIcon>https://avatars.githubusercontent.com/u/40169797?v=4</PackageIcon>
-    <PackageIconUrl>https://avatars.githubusercontent.com/u/40169797?v=4</PackageIconUrl>
     <PackageTags>money;decimal;int;integer;convertion</PackageTags>
     <ReleaseNotes>First release</ReleaseNotes>
     <Title>Money Extensions</Title>
